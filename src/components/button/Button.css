@@ -2,13 +2,31 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+  background-color: #181f32;
 }
 .numberButton {
   width: 50px;
   height: 60px;
+  background-color: #eae3db;
+  border-radius: 2px;
 }
 
-.clearButton {
-  width: 50%;
-  height: 60px;
+.functionButton {
+  width: 100px;
+  height: 40px;
+  background-color: #65719b;
+  color: white;
+}
+.equalButton {
+  width: 100px;
+  height: 40px;
+  background-color: #cb3f30;
+  color: white;
+}
+button {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+  border: none;
+  border-radius: 12px;
+  margin: 2px;
+  padding: 5px;
 }

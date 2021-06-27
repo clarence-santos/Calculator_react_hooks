@@ -26,7 +26,7 @@ const Calculator = () => {
 
   return (
     <div className="calculator">
-      <div>
+      <div className="main-body">
         <Display data={data} />
         <Button
           numberClick={handleData}

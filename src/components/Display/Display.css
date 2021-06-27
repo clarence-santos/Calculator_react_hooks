@@ -1,6 +1,9 @@
 .display {
   display: block;
-  margin: 7px 4px;
+  margin: 7px auto;
   padding: 10px 24px;
-  border: 1px solid black;
+  background-color: #181f32;
+  color: white;
+  text-align: right;
+  border-radius: 2px;
 }
