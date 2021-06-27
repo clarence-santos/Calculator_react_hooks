@@ -19,7 +19,7 @@ export default function Button(props) {
       <button className="numberButton" value="9" onClick={props.numberClick}>
         9
       </button>
-      <button className="numberButton" value="÷" onClick={props.numberClick}>
+      <button className="numberButton" value="/" onClick={props.numberClick}>
         ÷
       </button>
       <button className="numberButton" value="4" onClick={props.numberClick}>
@@ -31,7 +31,7 @@ export default function Button(props) {
       <button className="numberButton" value="6" onClick={props.numberClick}>
         6
       </button>
-      <button className="numberButton" value="x" onClick={props.numberClick}>
+      <button className="numberButton" value="*" onClick={props.numberClick}>
         x
       </button>
       <button className="numberButton" value="1" onClick={props.numberClick}>
