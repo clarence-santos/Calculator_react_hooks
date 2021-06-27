@@ -1,0 +1,14 @@
+.button {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.numberButton {
+  width: 50px;
+  height: 60px;
+}
+
+.clearButton {
+  width: 50%;
+  height: 60px;
+}
