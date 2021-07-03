@@ -1,9 +1,10 @@
 .display {
   display: block;
-  margin: 7px auto;
-  padding: 10px 24px;
+  height: 29px;
+  width: 100%;
   background-color: #181f32;
   color: white;
   text-align: right;
   border-radius: 2px;
+  font-size: 20px;
 }
